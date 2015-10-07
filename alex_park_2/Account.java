@@ -5,6 +5,7 @@ import java.util.Date;
 
 /**
  *   Submitted by: Alex Yeji Park
+ *   Date: Feb. 18. 2015
  *
  *   Honor: I have completed this assignment on my own.
  *          In researching the assignment I got help/ideas from http://stackoverflow.com/ 
