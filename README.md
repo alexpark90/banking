@@ -2,7 +2,7 @@
 This was my second java assignment.
 
 This program is simple console based program.
-It allows the user to select to create an either checking or saving account and following actions to take.
+It allows a user to select to create an either checking or saving account and following actions to take.
 Checking account will be created with initial deposit and overdraft.
 Saving account will be created with initial deposit and interest rate.
 There are some restrictions, for example, initial deposit should be > 0.
